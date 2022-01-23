@@ -28,6 +28,12 @@ const customers = [
     name: 'Bu',
     age: 40,
     address: 'Address 2' 
+  },
+  {
+    id: uuid(),
+    name: 'Bu',
+    age: 40,
+    address: 'Address 3' 
   }
 ]
 
